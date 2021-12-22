@@ -189,7 +189,10 @@ const memberList = useMemo(() => {
    if (!address) {
     return (
       <div className="landing">
-        <h1>🎓 Welcome to 📚Échame la Mano DAO</h1>
+        <span style={{display:'flex'}}>
+        <label style={{fontSize:'4em', marginTop:'15px', marginRight:'-9px'}}>🎓</label> 
+        <h1> Welcome to Échame la Mano DAO</h1>
+        </span>        
         <h2>Helping students to reach fullest potential</h2>
         <br></br>
         <button onClick={() => connectWallet("injected")} className="btn-hero">

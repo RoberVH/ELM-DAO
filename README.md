@@ -6,6 +6,9 @@ Roberto Vicuna
 
 ## A charity DAO to fund students. Made with Thirdweb SDK on Buildspace weekend project mini Hackathon 
 
+Deployed to: 
+        https://elm-dao.vercel.app/
+        
 ## buildspace x thirdweb - Build your own DAO with just Javascript
 
 
